@@ -1,6 +1,52 @@
+Why are we here?
+
+What you will DO:
+- Build 3 games in the Swift language using XCode and SpriteKit.
+- Learn and apply programming fundamentals that relate to all programming languages.
+- Develop your working familiarity with the Swift language, XCode IDE, iOS SDK, and SpriteKit
+
+Expect and be ready to:
+- Learn lots of new words and their definitions. Programming, like all disciplines, has its own language.
+- Collaborate! Work with your fellow classmates, help your classmates, and seek assistance from those who already understand something that you don't yet.
+- Make tons of mistakes. Mistakes are a golden path to learning things in a very solid and durable way.
+- See and experience lots of error messages.
+
+How to get the most value from the class:
+- Ask specific questions
+- Have fun!
+- Write a lot of code
+- Read a lot of code
+- Make mistakes
+- Ask questions
+
+Core Competencies in Software Development:
+- Reading and writing
+- Attention to detail
+- Spotting differences
+- Planning and debugging
+
+What does it take to be a coder?
+- Read code
+- Write code
+
+Attitude:
+- Attitude and emotions are contageous! Aah-choo!
+- "Easy" learning is not always the most durable and dependable.
+- We're all in this together.
+- The power of "yet".
+
+Let's get started:
+
 Setup is simple.
-    Update Mac OS X to Mavericks
-    Update XCode
+    Update Mac OS X to Yosimite
+    Install/Update XCode 6
+
+80/20 rule
+What's the 20% of Swift that you'll use all the time?
+
+
+
+
 
 
 
