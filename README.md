@@ -1,50 +1,84 @@
-Why are we here?
+WEEK ONE
+Day 1 Monday
+Morning Session:
+Objectives:
+    - Introductions
+    - Break the ice (a couple of times)
+    - Set ground rules and expectations
+    - Setup dev environment
+    - Start intro exercises in XCode playground
+
+Welcome & Introductions
+    Name, school, why here, interesting facts
+
+Additional Icebreaker = Brain teaser (with a lead-in at the end)
+    - Imaginee that you want to introduce yourself to every other individual in the classroom.
+    - What is the total sum of all the 1:1 introductions for every human in the room?
+    - Give them time to figure it out. Invite students to reason about it aloud and together.
+    - Answer is N^2... but why is this useful?
+
+This is the power of a network. The power of distributed computing and the value of the internet itself is also a square of the number of users/computers.
+- You are all now part of eachother's personal network. Even after this summer camp is over, you will still be part of eachother's network.
+
+Ground Rules
+    - Be respectful of eachother.
+    - No "isms".
+        - No sexism,no racism, no any-isms!
+        - All of us, together, we will not tolorate intolorance. We are prejudiced against prejudice.
+        - Creating a safe environment is the responsibility of every individual in the group.
+    - Potential icebreaker
+        - Get each student to stand up, state their name, and make a pledge to the group that they won't abide any isms.
+        - "My name is ____. I pledge that I will not accept or promote predjudice in any way."
+            (or something similar)
+    - Have an attitude, a persistently positive one!
+
+Attitude:
+- Attitude and emotions are contageous! Aah-choo!
+- "Easy" learning is not always the most durable and dependable.
+- Often, "difficult" learning where progress feels slowest and confusion the highest is the time when the most connections are being made.
+- We're all in this together.
+- Know the power of "yet". Whenever you hear someone say something like "My function isn't working" or "I don't understand this", jump in and say "YET!" with a big huge smile!
 
 What you will DO:
-- Build 3 games in the Swift language using XCode and SpriteKit.
+- Build 3 games in the Swift language using XCode and SpriteKit. Tetris, Space Invaders, and Flappy Bird.
 - Learn and apply programming fundamentals that relate to all programming languages.
 - Develop your working familiarity with the Swift language, XCode IDE, iOS SDK, and SpriteKit
 
 Expect and be ready to:
-- Learn lots of new words and their definitions. Programming, like all disciplines, has its own language.
+- Learn lots of new words and their definitions. Programming, like all disciplines, has its own language. And language affords its users the power of precision.
+- Ask lots of questions!
+- Research lots of questions!
 - Collaborate! Work with your fellow classmates, help your classmates, and seek assistance from those who already understand something that you don't yet.
 - Make tons of mistakes. Mistakes are a golden path to learning things in a very solid and durable way.
 - See and experience lots of error messages.
 
 How to get the most value from the class:
-- Ask specific questions
+- Get to know your classmates
 - Have fun!
+- Ask specific questions. "My code is broken" is not a question. It's a statement. Also, that's like going to a mechanic's camp and saying "my car is broken".
 - Write a lot of code
 - Read a lot of code
-- Make mistakes
-- Ask questions
 
 Core Competencies in Software Development:
 - Reading and writing
 - Attention to detail
 - Spotting differences
-- Planning and debugging
+- Planning and debugging - break big problems into smaller problems
 
 What does it take to be a coder?
 - Read code
 - Write code
 
-Attitude:
-- Attitude and emotions are contageous! Aah-choo!
-- "Easy" learning is not always the most durable and dependable.
-- We're all in this together.
-- The power of "yet".
+Another Icebreaker = Poll the student body for familiarity with programming concepts and experience
 
 Let's get started:
 
-Setup is simple.
+Setup is simple. Let's make sure you get these things done.
     Update Mac OS X to Yosimite
     Install/Update XCode 6
 
-80/20 rule
-What's the 20% of Swift that you'll use all the time?
-
-
+80/20 rule = Pareto
+What's the 20% of Swift that you'll use almost all the time?
 
 
 
@@ -111,10 +145,7 @@ Final Friday- pizza and presentations for parents
 Mornings- learning
 Afternoons- time for building/working and fun games
 
-WEEK ONE
-Monday
-Welcome & Introductions
-    Name, school, why here, interesting facts
+
 Background
 Tools and Material needed
 What is Swift?

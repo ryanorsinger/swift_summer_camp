@@ -1,4 +1,4 @@
-// Playground - noun: a place where people can play
+
 
 
 // Constants and variables
@@ -9,14 +9,20 @@ var height = 60.0
 
 let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
-var currentLoginAttempt = 2
+currentLoginAttempt = 2
+
+/*: A comment that is not displayed in rich text view
+# The First Heading Shown
+The first content line displayed in this block of rich text.
+*/
+
+//: This is a line of text that will appear as a rich comment in a playground.
+
 
 // Type Safety
 var someBoolean = true
 someBoolean = false
 someBoolean = true
-someBoolean = "maybe"
-
 
 
 var someOtherBoolean = false;
@@ -36,3 +42,15 @@ var arrayOfStrings = [""]
 // Arrays
 // Dictionaries
 // Tuples
+
+/** Control Structures  */
+// conditionals
+// loops
+
+var i = 1
+var condition = 100
+
+var highscore = 0
+for i in 0..<100 {
+    highscore = highscore + i
+}
