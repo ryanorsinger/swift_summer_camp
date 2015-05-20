@@ -196,3 +196,16 @@ Thursday
 Friday
 
 
+
+Start Developing iOS Apps Today
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html
+
+XCode Overview
+https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html
+
+Swift Language Basics
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html
+
+SpriteKit Programming Guide
+https://developer.apple.com/library/mac/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html
+
